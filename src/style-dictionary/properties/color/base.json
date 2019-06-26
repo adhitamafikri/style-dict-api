@@ -1,0 +1,16 @@
+{
+  "color": {
+    "base": {
+      "purple": { "value": "#7B1FA2" },
+      "orange": { "value": "#FFA000" },
+      "red": { "value": "#c62828" },
+      "white": { "value": "F5F5F5" }
+    },
+    "sets": {
+      "purple": { "value": "#7B1FA2" },
+      "orange": { "value": "#FFA000" },
+      "red": { "value": "#c62828" },
+      "white": { "value": "F5F5F5" }
+    }
+  }
+}
